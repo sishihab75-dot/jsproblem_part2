@@ -18,6 +18,7 @@ function findMax(a, b) {
   }
 }
 
+
 findMax(10, 20);
 
 // Find the maximum value of unlimited numbers using Math.max() function
